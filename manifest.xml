@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>FixNpcLoot</Name>
+  <Guid>9e51a078-ca94-47dd-bb7f-665d9e5c94ac</Guid>
+  <Repository>None</Repository>
+  <Version>v1.0.0-PuLs</Version>
+</PluginManifest>
